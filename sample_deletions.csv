@@ -1,0 +1,2 @@
+sequence,entityname,start date,end date,entityidcolumn,additionalquery
+1,ActivityPointer,25-11-1999,01-12-2020,activityid,,

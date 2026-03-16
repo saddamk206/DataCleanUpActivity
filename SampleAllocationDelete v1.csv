@@ -1,0 +1,6 @@
+sequence,entityname,start date,end date,entityidcolumn
+1,indskr_sampledrop,25-11-1999,31-05-2020,activityid
+2,indskr_activitysampledropped,25-11-1999,31-05-2020,
+3,indskr_customersampleproducteligibility,25-11-1999,31-05-2020,
+4,indskr_customersampleproduct,25-11-1999,31-05-2020,
+5,indskr_sampleproductdropconfiguration,25-11-1999,31-05-2020,

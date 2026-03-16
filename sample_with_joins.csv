@@ -1,0 +1,2 @@
+sequence,entityname,start date,end date,entityidcolumn,querytype,additionalquery
+1,indskr_customercallplan,01-01-2024,31-12-2024,indskr_customercallplanid,SQL,"SELECT indskr_customercallplanid FROM indskr_customercallplan icp INNER JOIN contact c ON c.contactid = icp.indskr_customerid WHERE c.indskr_externalid NOT LIKE 'MDM%'"

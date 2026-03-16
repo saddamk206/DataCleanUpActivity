@@ -1,0 +1,8 @@
+sequence,entityname,start date,end date,entityidcolumn
+1,indskr_activitycontactslide,11-12-2025,12-12-2025,
+2,indskr_activitycontact,11-12-2025,12-12-2025,
+3,indskr_activityattendeeresource,11-12-2025,12-12-2025,
+4,indskr_activitypresentation,11-12-2025,12-12-2025,
+5,indskr_activityproduct,11-12-2025,12-12-2025,
+6,indskr_callobjective,11-12-2025,12-12-2025,
+7,phonecall,11-12-2025,12-12-2025,activityid

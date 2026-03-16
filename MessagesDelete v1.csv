@@ -1,0 +1,6 @@
+sequence,entityname,start date,end date,entityidcolumn
+1,indskr_emailattachment,25-11-1999,31-05-2020,
+2,indskr_meetingcallplan,25-11-1999,31-05-2020,
+3,indskr_accompanieduser,25-11-1999,31-05-2020,
+4,indskr_emailrecipient,25-11-1999,31-05-2020,
+5,email,25-11-1999,31-05-2020,activityid
